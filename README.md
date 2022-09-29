@@ -4,5 +4,5 @@ Pour des raisons d'anonymat, seule 1 copie est mise en ligne afin de comprendre 
 Pour extraire les copies :
 python3 extract_copie.py
 
-Pour calculer les corrections :
+Pour calculer les corrections (ne pas hesiter a le lancer plusieurs fois) :
 python3 calculate_correction.py
